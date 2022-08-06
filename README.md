@@ -14,6 +14,7 @@ The exploratory analysis has been done by plotting scatter plots and series of h
 
 ## Results
 Based on the data collected from JSON file, heatmaps and travel maps with pop up markers were created which can display information about the city, current maximum temperature, and a hotel in the city based on a customer's travel preferences. Hotels were found from the cities coordinates using Google's Maps and Places API, and Search Nearby feature.
+
 <img width="732" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/108298416/183264083-1ed14870-d756-413b-9332-7601a73abb39.PNG">
 
 <img width="716" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/108298416/183264167-8918aa2d-15ca-44d9-960f-7870ebe3f551.PNG">
